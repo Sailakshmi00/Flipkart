@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Different types of tags</title>
+</head>
+<body>
+    <h1>this is first heading</h1>
+    <h2>this issecond heading</h2>
+    <h3>this is third heading</h3>
+    <h4>this is fourth heading</h4>
+    <h5>this is fifth heading</h5>
+    <h6>this is sixth heading</h6>
+    <p>
+        <pre>
+            there are two types of tags in  html 
+            1.Paired tags 
+            2.Unpaired tags
+            there are two types of elements
+            1.Blkock level elements
+            2.Inlline elements 
+  </p>
+      </pre>
+      <p>
+        <h1>This is my paragraph </h1>
+        <b>this is an example of bold and this is a non  sematic tag</b><br>
+        <strong>this is an example of strong and it is a sematic tag</strong><br>
+        <hr>
+        <i>this isan example of italic and this is a non sematic tag</i><br>
+        <em>this is an example of emphasized text and this is sematic tag </em><br>
+        <hr>
+        <u> this is an exampke of underline and this is non sematic tag</u><br>
+        <ins>this is an example of inserted text and this is a sematic tag</ins><br>
+        <hr>
+        <del>this is an example of delete and this is a non sematic tag</del><br>
+        <s>this is an example of delete and this is a non sematic tag</s><br>
+        <strike> this is an example of strike and thisn is a sematic tag</strike><br>
+        <hr>
+        <span> this is an example of span and it follows again attributes</span><br>
+        <mark>mark highlightes the text </mark><br>
+        <hr>
+        <p></p>
+        <pre>
+            <code>
+                  class A {
+                    Public Static Void Main(String args[])
+                       System.out.println("hello world4")                  }
+            </code>
+        </pre>
+    </p>
+        <p>z=(x+y)<sup>2</sup><br>
+        O<sub>2</sub>
+    </p>
+      </p>
+      <p><bdo dir="ltr"> this is a simple html program </bdo></p><br>
+      <p> <bdo dir="rtl"> this is a text from right to left</bdo></p><br>
+      <p><abbr title="HTML"> Hyper Text Markup Language </abbr></p>
+      <p><acronym title="CSS"> Cascading Style Sheets </acronym></p>
+<img controls src="c:\Users\KUMAR\Downloads\images.jpg" alt="birds picture">
+      <img controls src="../Downloads/h.jpg" alt="birds picture">
+      <img controls src="https://picsum.photos/536/354" alt="birds picture">
+      <audio controls src="../Downloads/birds sounds.mp3.wav"></audio>
+      <video controls src="../Downloads/birds sound.mp4.mp4" width="500px"></video>
+        
+    </body>
+    </html>
