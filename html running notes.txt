@@ -1,0 +1,91 @@
+   1.TYPES OF LANGUAGES
+1.low level language ex: c,c++,machine learning etc.
+2.mid level language
+3.high level language ex: java , python, js etc.
+    2.TYPES OF TRANSULATORS
+1.compiler : converts the source code to byte code.
+2.interpreter : reads all the files line by line.
+    3.IMPORATANT GIT COMMANDS
+1.touch file_name1,file_name2......
+2.git init
+3.git  status
+4.git add .
+5.git commit -m "message"
+6.it asks user email
+7.is asks user name
+8.git branch -M main
+9.git remote add origin "url(our repositary url)"
+10.git push -u origin main.
+                                                                                                                   INTRODUCTION TO HTML
+-->html stands for hyper text markup language.
+-->html contains section ,body section ,footer section .
+-->header section contains six types of headings 
+       1.<h1>......</h1>
+       2.<h2>......</h2>
+       3.<h3>......</h3>
+       4.<h4>......</h4>
+       5.<h5>......</h5>
+       6.<h6>......</h6>
+--->      DIFFERENT TYPES OF TAGS
+      1.paired tags  : <head>,<body>,......etc.
+      2.unpaired tags : <br>,<hr>,....etc.
+--->      DIFFERENT TYPES OF ELEMENTS
+      1.block level elements
+      2.inline  elements
+---> 1.sematic tags   :  ins,strong,emphasis,strike,span.
+       2.non sematic tag: u,i,b,del,mark.
+------> TAGS
+    1.sub tag 
+    2.sup tag
+    3.<p> tag
+    4.<pre> tag
+    5. <code> tag
+    6.<small> tag : we can write small tag inside another small tag
+    7.<big> tag  : we can write big tag inside another big tag 
+--->  ELEMENT SPECIFIC ATTRIBUTES
+  1.<bdo dir="ltr","rtl">.........</bdo> : bdo stands for bidirection order.
+---> RELATIVE PATH : when we copy a file from the same folder then it is called relative path .
+      ex:  <img src="filename in the same folder" alt="it is nothing but alternate message" >
+---> ABSOLUTE PATH : when we copy a file or url from the other platform  then it is called absolute path.
+      ex : <img src="url from the other platform" alt="it is nothing but alternate message" weidth="300px">
+---->   AUDIO TAG
+    <audio controls src="file.mp3" (muted,autoplay,loop)></audio>
+---->    VEDIO TAG 
+    <video controls src="file.mp3" (muted,autoplay,loop)></video>
+    ---> controls is very important to play the audio orbthe vedio .
+------>   LISTS
+   1.ordered list <ol>
+       1.type="i,a,A,1"
+   2.unordered list <ul>
+       1.type="circle,square,rhombus,..."
+----><IFRAME TAG>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/H1OIwKyu4iQ" 
+      title="YouTube video player"
+       frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; 
+        gyroscope; picture-in-picture;
+       web-share" allowfullscreen>
+---> we just copy the embeded html code to use the ifreame
+----->ANCHOR TAG
+     <a href="../bulletimage.jpg"></a> : this is mainly used to redirect the page.
+------->      FORMS
+   1.in this we contain <fieldset>, inside fieldset it contains <legend> ,inside legend it contains <form> ,inside form it contains  <label> , 
+       inside label we write <input> .
+   <form>   :   action ,method(get,post) .
+   <label>  :   for .
+   <input>  :  type(text,radio,checkbox),name,id,placeholder ,autocomplete(on or off ),
+   --> dropdown
+   1. in this we contain <select> , inside select we it contain <optgroup> ,inside optgroup it contain <option> .
+       <select> :  name,id,size,multiple ...
+       <optgroup>  :  label(heading)
+       <option>    :   value,disabled,selected.                 
+      
+
+
+
+
+
+
+
+
+
