@@ -1,0 +1,32 @@
+.c1{
+    border: 2px solid goldenrod;
+    margin: 2px;
+    padding: 10px;
+    background-color: brown;
+}
+.c2{
+    border: 2px solid tomato;
+    margin: 2px;
+    padding: 10px;
+    background-color: blue;
+    position: absolute;
+    top: 20px;
+}
+.c3{
+    border: 2px solid khaki;
+    margin: 2px;
+    padding: 10px;
+    background-color: coral;
+}
+.c4{
+    border: 2px solid lawngreen;
+    margin: 2px;
+    padding: 10px;
+    background-color: firebrick;
+}
+.c22{
+    margin: 2px;
+    padding: 10px;
+    position: relative;
+    
+}
